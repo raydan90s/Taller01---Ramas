@@ -1,10 +1,10 @@
 package espol.poo.topmusical;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import javafx.application.Platform;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
@@ -31,7 +31,7 @@ public class PrimaryController {
 
     public void initialize() {
         listaCanciones = Cancion.leerCanciones();
-        Collections.sort(listaCanciones);
+        Collections.sort(listaCanciones, Comparator.reverseOrder());
         for (Cancion c : listaCanciones ) {
 
             HBox hb = new HBox(10);//hbox para ubicar info de cada cancion
