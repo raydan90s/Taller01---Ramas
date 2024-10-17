@@ -15,6 +15,7 @@ Se agrega el nombre del artista antes del nombre de la canción
 ## Capturas
 Captura antes
 ![Captura de pantalla 2024-10-16 231432](https://github.com/raydan90s/Taller01---Ramas/blob/main/capturas/CapturaAntes.png)
+
 Captura Despues
-![Captura de pantalla 2024-10-16 231432](https://github.com/raydan90s/Taller01---Ramas/blob/main/capturas/CapturaDespues.png)
+![Captura de pantalla 2024-10-16 231432](https://github.com/raydan90s/Taller01---Ramas/blob/main/capturas/CapturaAhora.png)
 
